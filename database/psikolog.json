@@ -1,0 +1,40 @@
+{
+  "psychologists": {
+    "psychologist1": {
+      "name": "Nur Pratiwi",
+      "satisfaction": 97,
+      "university": "University of Jakarta",
+      "graduationYear": 2014,
+      "license": "1231-19-1-4",
+      "isOnline": true,
+      "category": "Career"
+    },
+    "psychologist2": {
+      "name": "Sekar Tanjung",
+      "satisfaction": 94,
+      "university": "University of Jakarta",
+      "graduationYear": 2014,
+      "license": "1231-19-1-4",
+      "isOnline": true,
+      "category": "Family"
+    },
+    "psychologist3": {
+      "name": "Dude Herlino",
+      "satisfaction": 92,
+      "university": "University of Jakarta",
+      "graduationYear": 2014,
+      "license": "1231-19-1-4",
+      "isOnline": true,
+      "category": "Romance"
+    },
+    "psychologist4": {
+      "name": "Aisyah Wardani",
+      "satisfaction": 92,
+      "university": "University of Jakarta",
+      "graduationYear": 2014,
+      "license": "1231-19-1-4",
+      "isOnline": true,
+      "category": "Education"
+    }
+  }
+}

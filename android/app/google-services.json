@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481289422128",
+    "firebase_url": "https://nyemangati-bf048-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nyemangati-bf048",
+    "storage_bucket": "nyemangati-bf048.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481289422128:android:9cbba0b22050fbb3d174f5",
+        "android_client_info": {
+          "package_name": "com.example.nyemangati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481289422128-jrtap0pa99lmmkfiii9hamgkag7aeebu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNaIjRy4RevCosA0YJulc5tLD0CcSP-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481289422128-jrtap0pa99lmmkfiii9hamgkag7aeebu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481289422128-fvemn9hbdte3pe9ofihleeq8qkbsppah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nyemangati"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

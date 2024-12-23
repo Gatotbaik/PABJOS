@@ -1,0 +1,19 @@
+{
+    "users": {
+      "user1": {
+        "name": "John Doe",
+        "phone": "1234567890",
+        "gender": "Male",
+        "location": "New York",
+        "education": "S1"
+      },
+      "user2": {
+        "name": "Jane Smith",
+        "phone": "9876543210",
+        "gender": "Female",
+        "location": "Los Angeles",
+        "education": "S2"
+      }
+    }
+  }
+  
